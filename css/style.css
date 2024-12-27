@@ -100,7 +100,7 @@ textarea {
 }
 .heading-sec__main--lt::after {
   content: "";
-  background: #7843e9 !important;
+  background: orange !important;
 }
 .heading-sec__main::after {
   content: "";
@@ -108,7 +108,7 @@ textarea {
   top: calc(100% + 1.5rem);
   height: 5px;
   width: 3rem;
-  background: #7843e9;
+  background: orange;
   left: 50%;
   transform: translateX(-50%);
   border-radius: 5px;
@@ -147,7 +147,7 @@ textarea {
   width: 92%;
 }
 .btn {
-  background: #7843e9;
+  background: orange;
   color: #fff;
   text-transform: uppercase;
   letter-spacing: 1px;
@@ -169,13 +169,13 @@ textarea {
   font-size: 1.6rem;
 }
 .btn--theme {
-  background: #7843e9;
+  background: orange;
   color: #fff;
 }
 .btn--theme-inv {
   color: #111;
   background: #fff;
-  border: 2px solid #7843e9;
+  border: 2px solid orange;
   box-shadow: none;
   padding: calc(1.5rem - 2px) calc(5rem - 2px);
 }
@@ -330,7 +330,7 @@ textarea {
 .about__content-details-para a {
   text-decoration: underline;
   font-weight: 700;
-  color: #7843e9;
+  color: orange;
   margin: 0 3px;
 }
 .projects__row {
@@ -645,7 +645,7 @@ textarea {
   transition: color 0.3s;
 }
 .header__logo-container:hover {
-  color: #7843e9;
+  color: orange;
 }
 .header__logo-img-cont {
   width: 5rem;
@@ -653,7 +653,7 @@ textarea {
   border-radius: 50px;
   overflow: hidden;
   margin-right: 1.5rem;
-  background: #7843e9;
+  background: orange;
 }
 @media only screen and (max-width: 56.25em) {
   .header__logo-img-cont {
@@ -696,7 +696,7 @@ textarea {
   transition: color 0.3s;
 }
 .header__link:hover {
-  color: #7843e9;
+  color: orange;
 }
 @media only screen and (max-width: 56.25em) {
   .header__link {
@@ -756,7 +756,7 @@ textarea {
   transition: color 0.3s;
 }
 .header__sm-menu-link a:hover {
-  color: #7843e9;
+  color: orange;
 }
 .header__sm-menu-link:first-child a {
   border-top: 1px solid #eee;
